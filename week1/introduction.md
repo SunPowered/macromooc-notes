@@ -3,8 +3,7 @@ Macroeconomics - Week 1
 
 Professor Nilss Olekalns
 
-What is Economics
------------------
+# What is Economics #
 
 Macroecononmics is the study the economics of the aggregrate, 
 including monetary & fiscal policy, national output, exchange 
@@ -28,8 +27,7 @@ whether these choices will require public policy in order to improve the
 outcomes.
 
 
-The Market Mechanism
----------------------
+# The Market Mechanism #
 
 societies have used different mechanisms to allocate their resources.
 
@@ -41,8 +39,7 @@ to optimize their interests, by reacting to the demand and supply produced
 by the other, reaching an *equilibrium*.  This is called the *magic of markets*.  This is a highly efficient way of dealing with the allocation 
 of scare resources.  
 
-Micro vs Macro
----------------
+# Micro vs Macro #
 
 Most economists see themselves as working in one of the two disciplines,
 though the precise definition of each are a little fuzzy.  
@@ -70,8 +67,8 @@ Example Macro questions:
 	*	What roles do montary and fiscal policy play in managing the 
 		economy?
 
-Fundamental Welfare Theorems
------------------------------
+
+# Fundamental Welfare Theorems #
 
 There are two fundamental welfare theorems. These place the study of
  macroeconomics in context.
@@ -102,11 +99,9 @@ failure.  The traditional theory was only a special case of the actual
 world. The key is careful management of the economy, recognizing there
 are limits of what goverments can achieve. 
 
-Macroeconomic Themes
-----------------------
+# Macroeconomic Themes #
 
-Indicators and Performance
-############################
+## Indicators and Performance ##
 	
 What indicators of performance are there? 
 
@@ -126,8 +121,6 @@ There is also occasional interruptions in the long run growth, known
 as recessions.  These interruptions are addressed in business cycle theory 
 and by Keynesian theory.
 
-Rate of inflation - a measure of how much the economy is changing.. 
-
 There is a correlation between an economies GDP and its rate of inflation
 
 3.	Rate of unemployment - increases rapidly during recessions.  Human
@@ -136,16 +129,14 @@ governments can do to avoid the large scale human loss during
 economic recessions, as the human cost to unemployment can be huge.
 
 
-Models
-#######-
+## Models ##
 
 Models provide a key way to provide testable hypotheses which can
 be applied toreal world data to give us an insight as to the validity of 
 a model.  models can simplify abstract concepts and allow
 us to 
 
-Public Policy
-##############
+## Public Policy  ##
 
 A central tenant of economics is that markets under ideal conditions
 allocate resources efficiently.  Where the markets dont 
@@ -171,7 +162,6 @@ The aims of macroeconomic policy:
 *	Balancing current expenditure against the need to provide resources for the future
 *	Providing employment for all individuals seeking work
 
-Links
------
+# Links #
 
 <http://databank.worldbank.org/data/home.aspx>
