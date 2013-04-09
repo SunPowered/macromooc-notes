@@ -161,4 +161,88 @@ This relates the import surplus/deficit and the amount of national saving to the
 Interesting to note that when there is a trade deficit, then investment is higher than national savings.
 This correlates well with data. 
 
+## Refinements ##
+
+There are some refinements to the concept of GDP which need to be discussed.
+First refinement has to do with measurement issue.  This is an important issue in economics.
+
+Example. Assume there are only 2 commodities: cheese and wine. Taking the expenditure GDP
+
+--------------------------------------------------------
+Commodity   Variable     2009    2010    2011    2012
+---------   ----------  ------  ------  ------  ------
+Cheese          q        100     105     108     112
+Cheese          p        15      16      18      20
+(kilos)       (val)      1500    1680    1944    2240
+Wine            q        25      30      38      50
+Wine            p        22      20      16      12
+(L)           (val)      550     600     608     600
+Total GDP       []       2050    2280    2552    2840
+--------------------------------------------------------
+
+In this way, the total GDP is called the *nominal GDP*.  This is the sum of the current price times the current
+quantity. We are using the current prices to weight the commodities each year.  This price based weighting can also be thought
+of as the _social value_ of the good, if the economy is in a market economy.  Resources that are valued highly in a society,
+receive a high price, and thus are weighted heavier the calculation of GDP.  This is a core belief in market economies.
+
+### National GDP - A Potential Problem ###
+
+In many cases, in time, the quantity sold of a good goes up and the price goes down.  This trends the nominal GDP
+in an unpredictable way.  If the prices are falling faster than the increase in quantity,
+then the nom. GDP decreases in time.  If the nom. GDP is falling in time, one cannot infer that it is because of the quantity
+increasing or the price decreasing.  Thus, it is useful to use a different concept for GDP, the *Real GDP*.
+
+1.  Declare a base period, usually a year
+2.  Value the quantity of goods in relation to the fixed base price.
+3.  Future quantities are multiplied by this base price to get a new measure of GDP.
+
+Thus, prices are fixed at this beginning period, and the time dependant quantity are tracked.  
+
+One problem with real GDP.  When we use this base period prices, and we use the prices to value the goods and services
+those periods, we are freezing those weights at the base price.  This assumes a fixed social value for the good in time.
+This, in particular, does not happen.  Solution to this is what is called a *chain volume index*.  This moves the
+base price forward each year.  Thus the real GDP is in reference to last years prices. 
+
+### Unsold Inventory ###
+
+There is a dependance between production and sales.  This does not always happen, there is often unsold goods,
+stored as inventory.  This is not as big as problem as one may think.  We can look at the unsold inventories
+as a firm investment, to meet an increase in demand in the future.
+
+ Change in inventories is the difference between production and expenditure, this gets added to a firms 
+ investment, $I$.
+
+ Now, the relation still holds:
+
+ $$P = E + I$$
+
+## National Income Accounting Identitiy ##
+
+That is, production, expenditure, and income are all equal measures of the GDP.
+
+There are distinct sectors in an economy.
+
+1.  Household
+    *   $C^{d} + M$
+2.  Firms
+    *   I: plant,equipment, inventory investment
+3.  Government
+    *   G: gov. expenditure
+4.  Foreign Sector
+    *   X: exports
+
+The financial crisis in 2009 was characterized by a sharp drop in GDP growth.
+
+## The economics of happiness ##
+
+There is a large amount of research being done on the economics of people's  happiness.
+There is data supporting the evidence that there is little to no correlation in a nations
+GDP and the overall happiness of the citizens.  In some cases, such as East Germany just
+after the fall of the wall, there was a correlation between real income and overall well i
+being as polled from citizens.
+
+
+
+
+
 
