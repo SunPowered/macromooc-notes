@@ -7,5 +7,5 @@ pdf:
 	pandoc -f markdown -s --toc src/*.md -o $(DOC_NAME).pdf
 
 html:
-	pandoc -f markdown --toc src/*.md -o $(DOC_NAME).html
+	pandoc -f markdown -s -S --toc --webtex src/*.md -o $(DOC_NAME).html
 
